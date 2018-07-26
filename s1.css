@@ -1,0 +1,154 @@
+.hlsa8 {
+    width: 430px;
+    height: 160px;
+    padding: 10px;
+    border: 1px solid #fff;
+  }
+
+  .hlsa1 {
+    width: 400px;
+    height: 130px;
+    background-image: url(http://i.imgur.com/ZThipUb.png);
+    padding:15px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hlsa2 IMG {
+    width: 60px;
+    height: 60px;
+    padding:6px;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 28px;
+    left: 440px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa1:hover .hlsa2 IMG {
+    left: 129px;
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa3 {
+    font: 32px/32px roboto;
+    color: #fff;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 111px;
+    left: 225px;
+
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa1:hover .hlsa3 {
+    left: 20px;
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa4 {
+    border-left: 10px;
+    border-right: 10px;
+    width: 1px;
+    height: 130px;
+    background: #fff;
+    position: absolute;
+    left: 525px;
+
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa1:hover .hlsa4 {
+    left: 214px;
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa5 {
+    width: 186px;
+    height: 120px;
+    padding: 10px 0px 0px 0px;
+    background: ;
+    position: absolute;
+    left: 537px;
+
+    font: 10px/15px consolas;
+    color: #fff;
+    text-align: justify;
+    text-transform: lowercase;
+
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa1:hover .hlsa5 {
+    left: 226px;
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa5 b {
+    border: 1px solid #fff;
+    padding: 2px 4px;
+    margin-right: 4px;
+  }
+
+  .hlsa6 {
+    position: absolute;
+    top: 120px;
+    left: 537px;
+
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa1:hover .hlsa6 {
+    left: 226px;
+    transition: all 2s ease-in-out 0s;
+    -webkit-transition: all 2s ease-in-out 0s;
+    -moz-transition: all 2s ease-in-out 0s;
+    -o-transition: all 2s ease-in-out 0s;
+  }
+
+  .hlsa7 {
+    font: 12px/12px consolas;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    padding: 4px 7px;
+    margin-right: 10px;
+    position: relative;
+  }
+
+  .hlsa7 a {
+    font: 12px/12px consolas !important;
+    color: #fff !important;
+    text-transform: uppercase !important;
+  }
